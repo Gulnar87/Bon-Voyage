@@ -253,11 +253,12 @@ input[type="text"].form-control{
   filter: alpha(opacity=0);
 }
 
-.carousel-caption h3 {
-  font-size: 80px;
+.carousel-caption h4 {
+  font-size: 40px;
+  color: #fff;
 }
 
-.carousel-caption h3, .carousel-caption p {
+.carousel-caption h4, .carousel-caption h6 {
   -webkit-animation: fadeInRotate 0.5s linear 0.8s backwards;
   -moz-animation: fadeInRotate 0.5s linear 0.8s backwards;
   -ms-animation: fadeInRotate 0.5s linear 0.8s backwards;
@@ -265,11 +266,12 @@ input[type="text"].form-control{
 
 }
 
-.carousel-caption  p {
+.carousel-caption  h6 {
   -webkit-animation-delay: 2s;
   -moz-animation-delay: 2s;
   -ms-animation-delay: 2s;
   animation-delay: 2s;
+  font-size: 30px;
 }
 
 
