@@ -542,6 +542,17 @@ color: black;
  #main-content{
    padding-top: 250px;
 }
+
+.carousel-caption h4 {
+  font-size: 30px;
+
+}
+
+
+.carousel-caption  h6 {
+
+  font-size: 20px;
+
   
 }
 
@@ -657,6 +668,18 @@ color: black;
 
 }
 
+.carousel-caption h4 {
+  font-size: 25px;
+
+}
+
+
+.carousel-caption  h6 {
+
+  font-size: 16px;
+
+}
+
  /* End Home Page */
 
 }
@@ -765,6 +788,18 @@ color: black;
   .container-info{
   padding-right: 0;
   margin-right: -16px;
+
+}
+
+.carousel-caption h4 {
+  font-size: 16px;
+
+}
+
+
+.carousel-caption  h6 {
+
+  font-size: 12px;
 
 }
   /* End Home Page */
